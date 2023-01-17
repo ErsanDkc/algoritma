@@ -1,6 +1,6 @@
 # İnsertion Sort olarak incelenmesi;
--[22,27,16,2,18,6]
--(en küçük olan sayı seçilir ve en baştakiyle yeri değiştirilir)
+[22,27,16,2,18,6] <br>
+(en küçük olan sayı seçilir ve en baştakiyle yeri değiştirilir)
 -[2,27,16,22,18,6]
 -(ikinci en küçük sayıda seçilir ve 2. sırayla yer değiştirir)
 -[2,6,16,22,18,27]
